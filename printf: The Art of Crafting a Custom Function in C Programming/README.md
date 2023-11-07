@@ -544,3 +544,15 @@ Custom `printf`-like functions offer tremendous flexibility and customization p
 - [libc — How to write my own printf() in C? — Stack Overflow](https://stackoverflow.com/questions/1735236/how-to-write-my-own-printf-in-c)
 - [printf project (notion.site)](https://www.notion.so/d4808647995045d7ad0c9716e0b287be?pvs=21)
 - [(PDF) Secrets of “printf “ | Thomas Samuel — Academia.edu](https://www.academia.edu/10297206/Secrets_of_printf_)
+
+
+## Let’s Connect and Grow Together 🚀🌱
+
+Thank you for taking the time to read this article on mastering the `printf` function in C programming. I hope you found the insights and tips valuable for your coding journey. 📚💡
+
+Your thoughts, questions, and experiences matter to me. I’d love to hear from you and continue the conversation. Feel free to share your thoughts, ask questions, or provide feedback in the comments below. Your insights can inspire us all to learn and grow together. 💬🤝
+
+- [Abdelrahman Mohamed | Portfolio](https://www.notion.so/Abdelrahman-Mohamed-fb5a61c08f5548eca17949b890b8f379?pvs=21)
+- [Abdelrahman Mohamed | LinkedIn](https://www.linkedin.com/in/abdelrahmanm0/)
+- [Abdelrahman Mohamed | X](https://twitter.com/HackerSa3edy)
+- [Abdelrahman Mohamed | GitHub](https://github.com/hackerSa3edy)
